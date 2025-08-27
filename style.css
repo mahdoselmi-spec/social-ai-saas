@@ -1,0 +1,4 @@
+body { font-family: Arial; text-align: center; padding: 50px; }
+input, select { padding: 5px; margin: 5px; }
+button { padding: 5px 10px; cursor: pointer; }
+pre { margin-top: 20px; background: #f0f0f0; padding: 10px; white-space: pre-wrap; }
